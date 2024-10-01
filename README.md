@@ -16,3 +16,4 @@ Registrolibre is a project that allows users to register products or records int
 - Vite
 - Git
 - TailwindCSS
+- Firebase
